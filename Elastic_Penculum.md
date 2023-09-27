@@ -1,6 +1,4 @@
-# Welcome to GitHub Desktop!
+#Damped elastic pendulum
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-This is my name 
+https://github.com/Lactuka/desktop-tutorial/assets/115004476/7e878e1c-4c41-4733-8cd5-0cb3e585e3d4
