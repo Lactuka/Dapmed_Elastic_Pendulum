@@ -45,5 +45,5 @@ Where $b$ is the damping coefficient with proper units.
 
 
 ## Animation
-https://github.com/Lactuka/desktop-tutorial/assets/115004476/37f0667f-eaf2-4573-baba-2400e193c2f6
 
+https://github.com/Lactuka/Elastic_Pendulum/assets/115004476/721975cf-a7c6-4f79-b444-8f661a11d7bc
